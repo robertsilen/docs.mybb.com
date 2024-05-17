@@ -107,7 +107,7 @@ This page is for the configuration of your database. If you have javascript enab
 
 #### Database Engine
 
-This is the engine that you wish to use. At most, the options available will be MySQL, MySQL Improved (including MariaDB), SQLite 3, or PgSQL. Most likely, there is only MySQL or something similar, so this should be the right choice for you. If you have the option between MySQL and MySQL Improved, usually the Improved is the better choice.
+This is the engine that you wish to use. At most, the options available will be MySQL, MySQL Improved, SQLite 3, or PgSQL. Most likely, there is only MySQL, MariaDB or something similar, so this should be the right choice for you. If you have the option between MySQL and MySQL Improved, usually the Improved is the better choice.
 
 #### Database Host
 
