@@ -12,7 +12,7 @@ redirect_from:
 MyBB 1.8 and the Merge System 1.8 have a few minimum system requirements:
 
 - PHP &ge; 5.2
-- MySQL &ge; 5.0, MariaDB &ge; 5.1, PostgreSQL &ge; 8.1 or SQLite &ge; 3
+- MariaDB &ge; 5.1, MySQL &ge; 5.0, PostgreSQL &ge; 8.1 or SQLite &ge; 3
 - Apache, nginx, lighttpd or IIS webserver
 
 The following PHP extensions are also needed:
@@ -27,4 +27,4 @@ The following PHP extensions are also needed:
 Although not required, we highly recommend:
 
 - latest version of PHP
-- latest version of PostgreSQL or MySQL
+- latest version of PostgreSQL or MariaDB
