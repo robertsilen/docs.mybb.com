@@ -27,4 +27,4 @@ The following PHP extensions are also needed:
 Although not required, we highly recommend:
 
 - latest version of PHP
-- latest version of PostgreSQL or MariaDB
+- latest version of PostgreSQL, MariaDB or MySQL
